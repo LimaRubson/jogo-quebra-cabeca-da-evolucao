@@ -3,7 +3,7 @@
 
     var tentativas = 0;
 
-    var contador = 10;
+    var contador = 02;
 
     TEXT_SCORE = "Pontos: ";
 
